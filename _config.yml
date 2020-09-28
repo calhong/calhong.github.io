@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/resume/calvinhongresume.pdf
+resume-url: assets/calvinhongresume.pdf
 
 url: https://calhong.github.io/
 
