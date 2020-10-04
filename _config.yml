@@ -108,6 +108,9 @@ plugins:
   - jemoji
   - jekyll-admin
   - jekyll-paginate-v2
+  
+kramdown:
+  parse_block_html: true
 
 jekyll-mentions:
   base_url: https://github.com

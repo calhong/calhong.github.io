@@ -2,45 +2,43 @@
 title: About
 layout: page
 ---
+
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Hi I'm Calvin! I'm a third-year Combined Business and Computer Science Major at the University of British Columbia, currently enrolled in the [BUCS Program.](https://mybcom.sauder.ubc.ca/bucs)
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I love to build things. From my first computer at 9 years old, to the software that I'm building today, finding ways to make things work together is something that I love to do. I was introduced to coding and software development when I was 18, and after the first program I built, I was hooked.</p>
 
-<h2>Skills</h2>
+<p>My focus over the last few months have been dedicated to building solutions to help people simplify their days with minimal thought required. It's more than just building things that can do the task, the experience matters too. If the way to use the solution is too dificult to understand, then it was never a solution to begin with.</p>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+<b>I'm currently open to 2021 internships/co-ops in software development. Reach out on any platform, and let's talk!</b>
+
+<h2>Languages</h2>
+
+<ul class="language-list">
+		<li>Java</li>
+		<li>TypeScript</li>
+		<li>C++</li>
+		<li>C</li>
+		<li>R</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Frameworks, Software, and Skills</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+<ul class="skill-list">
+	<li>Spring Boot</li>
+	<li>Spring Cloud</li>
+	<li>Elasticsearch</li>
+	<li>Kibana</li>
+	<li>Kafka</li>
+	<li>Pivotal Cloud Foundry</li>
+	<li>GitHub</li>
+	<li>JUnit</li>
+	<li>Mockito</li>
+	<li>Postman</li>
+	<li>IntelliJ</li>
+	<li>Atom</li>
+	<li>Microservices</li>
+	<li>Agile Software Development</li>
+	<li>TDD and Continuous Integration</li>
 </ul>
