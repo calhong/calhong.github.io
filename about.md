@@ -29,6 +29,7 @@ Hi I'm Calvin! I'm a third-year Combined Business and Computer Science Major at 
 	<li>Spring Boot</li>
 	<li>Spring Cloud</li>
 	<li>Elasticsearch</li>
+	<li>GraphQL</li>
 	<li>Kibana</li>
 	<li>Kafka</li>
 	<li>Pivotal Cloud Foundry</li>
