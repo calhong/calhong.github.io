@@ -32,6 +32,7 @@ Hi I'm Calvin! I'm a third-year Combined Business and Computer Science Major at 
 	<li>GraphQL</li>
 	<li>Kibana</li>
 	<li>Kafka</li>
+	<li>Jenkins</li>
 	<li>Pivotal Cloud Foundry</li>
 	<li>GitHub</li>
 	<li>JUnit</li>
